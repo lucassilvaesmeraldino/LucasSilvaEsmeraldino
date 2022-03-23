@@ -3,9 +3,9 @@
 ###  Olá, tudo bem? Sou o Lucas! <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif width="30">
 
 Eu sou um um estudante de ciência de programação, aspirante a programador, procurando por oportunidades de colaborar e participar de projetos que envolvam computação!
-- 🔭 Estou trabalhando atualmente com atendimento ao usuário final (no qual aprimoro minha criação de soluções, raciocínio rápido, conhecimento de banco de dados e informática).
-- 🌱 Estou aprimorando meus conhecimentos em client side e um pouco de Java.
-- 🤝 Estou procurando coloborar em projetos que aprimorem ainda mais os meus conhecimentos nessa tecnologias e outros além dessas que tenho experiência de atuação.
+- 🔭 Estou trabalhando atualmente como iniciante em programação, passando por uma jornada de estudos buscando aprender tecnologias como Java, HTML, CSS, JavaScript, Git, GitHub e entre outros.
+- 🌱 Atualmente estou praticando muito desenvolvimento web front-end.
+- 🤝 Todos os meus projetos pessoais e projetos desenvolvidos durante os meus estudos colocarei aqui no meu repositório, qualquer coisa, se quiser colaborar comigo em alguns desses ou sugerir melhorias, fique à vontade! 
 
 ## Sobre mim
 
