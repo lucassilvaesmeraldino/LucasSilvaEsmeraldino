@@ -3,7 +3,7 @@
 ###  Olá, tudo bem? Sou o Lucas! <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif width="30">
 
 Eu sou um desenvolvedor, apaixonado por tecnologia, novos assuntos e aprendizados!
-- 🔭 Estou trabalhando atualmente como desenvolvedor júnior, programando sistemas com java em conjunto com algumas tecnologias como Spring, JSF e um pouco de HTML e CSS.
+- 🔭 Trabalho atualmente como Desenvolvedor Backend, programando sistemas com Java em conjunto com algumas tecnologias como Spring, JSF e um pouco de HTML e CSS.
 - 🌱 Atualmente estou praticando muito desenvolvimento web front-end.
 - 🤝 Todos os meus projetos pessoais e projetos desenvolvidos durante os meus estudos colocarei aqui no meu repositório, qualquer coisa, se quiser colaborar comigo em alguns desses ou sugerir melhorias, fique à vontade! 
 
