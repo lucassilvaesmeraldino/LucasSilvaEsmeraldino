@@ -4,7 +4,7 @@
 
 Eu sou um desenvolvedor, apaixonado por tecnologia, novos assuntos e aprendizados!
 - 🔭 Trabalho atualmente como Desenvolvedor Backend, programando sistemas com Java em conjunto com algumas tecnologias como Spring, JSF e um pouco de HTML e CSS.
-- 🌱 Atualmente estou praticando muito desenvolvimento web front-end.
+- 🌱 Atualmente estou praticando muito desenvolvimento web com java.
 - 🤝 Todos os meus projetos pessoais e projetos desenvolvidos durante os meus estudos colocarei aqui no meu repositório, qualquer coisa, se quiser colaborar comigo em alguns desses ou sugerir melhorias, fique à vontade! 
 
 ## Sobre mim
